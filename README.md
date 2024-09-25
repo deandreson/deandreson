@@ -1,5 +1,5 @@
 # Deanderson Alves de Souza
-[LinkedIn](https://linkedin.com/in/deandreson) | São Paulo-SP, Brasil
+[LinkedIn](https://linkedin.com/in/deandreson) | [Kaggle](https://www.kaggle.com/deandresonalves)  | São Paulo-SP, Brasil
 
 ## Resumo Profissional
 Possuo experiência em desenvolvimento de sistemas, atendimento ao cliente e otimização de processos. 
