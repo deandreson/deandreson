@@ -2,8 +2,8 @@
 [LinkedIn](https://linkedin.com/in/deandreson) |   São Paulo-SP, Brasil
 
 ## Habilidades Técnicas
-- **Linguagens de Programação:** Java, Python, SQL, CSS, JavaScript
-- **Frameworks e Ferramentas:** Flask, Bootstrap, Power BI, MySQL, PostgreSQL, Git, APIs REST
+- **Linguagens de Programação:** Java, Python, JavaScript, C/C++
+- **Frameworks e Ferramentas:** Flask, Bootstrap, Power BI, MySQL, PostgreSQL, Git, APIs REST, SQL, CSS
 - **Análise de Dados:** Estatística, Visualização de Dados, Análise Exploratória, Regressão Linear
 - **Desenvolvimento Web:** Front-end e Back-end com Flask, HTML, CSS, Bootstrap
 - **Soft Skills:** Trabalho em equipe, Resolução de problemas, Análise Crítica, Criatividade, Lógica, Inglês (A2 - em evolução)
