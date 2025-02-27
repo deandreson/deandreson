@@ -27,8 +27,8 @@
 
 ## Technical Skills
 
-*   **Programming Languages:** Java, Python, SQL, CSS, JavaScript
-*   **Frameworks and Tools:** Flask, Bootstrap, Power BI, MySQL, PostgreSQL, Git, REST APIs
+*   **Programming Languages:** Java, Python,  JavaScript, C/C++
+*   **Frameworks and Tools:** Flask, Bootstrap, Power BI, MySQL, PostgreSQL, Git, REST APIs, SQL, CSS
 *   **Data Analysis:** Statistics, Data Visualization, Exploratory Data Analysis, Linear Regression
 *   **Web Development:** Front-end and Back-end with Flask, HTML, CSS, Bootstrap
 *   **Soft Skills:** Teamwork, Problem-solving, Critical Analysis, Creativity, Logic, English (A2 - in progress)
